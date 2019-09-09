@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MySeriesAndMovies</string>
+    <string name="API_Key">b64769f1329f8408b2cdea6f0d92dfc9</string>
 </resources>
